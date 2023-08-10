@@ -10,6 +10,7 @@ Financial analysis is the process of evaluating businesses, projects, budgets, a
 ## Key Topics
 The following topics will be covered in this unit:
 * Banking
+  * Fraud Detection
   * ...
   
 * Exchange
